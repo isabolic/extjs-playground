@@ -1,0 +1,15 @@
+{
+    successful: true,
+    data: [{
+            iban: 'HR9876543210987654321',
+            ime: 'Elektra',
+            adresa: 'Slavonska 9999',
+            mjesto: '10000 Zagreb'
+        },
+        {
+            iban:'HR5069843541687103189',
+            ime: 'Ivana Horvat',
+            adresa: 'Poljička 9999',
+            mjesto: '21000 Split'
+        }]
+}

@@ -1,0 +1,9 @@
+{
+    successful: true,
+    data: [{
+        iban: 'HR1234567890123456789',
+        ime: 'ACME d.o.o.',
+        adresa: 'Ilica 9999',
+        mjesto: '10000 Zagreb'
+    }]
+}
